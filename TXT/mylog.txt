@@ -1,1 +1,13 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://github.com/Fec16/os232/blob/main/TXT/logCodes
 
+ZCZC W00 15 L01 SCELE/Discord related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 60 L30 Udacity: study, etc.
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 60 L05 Quiz related including studying
+ZCZC W00 10 L41 TXT/mylog.txt related.
+ZCZC W00 60 L10 Assignment #00
