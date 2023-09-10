@@ -19,7 +19,7 @@ ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 10 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 10 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W01 10 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
-ZCZC W01 180 L11 Assignment #01
 ZCZC W01 60 L05 Quiz related including studying
 ZCZC W01 5 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W01 20 L41 TXT/mylog.txt related
+ZCZC W01 180 L11 Assignment #01
