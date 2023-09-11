@@ -1,4 +1,7 @@
-# os232
-|| [TARBALL]() || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/Fec16/os232/) ||
+This is the OS232 Index of Fec16
 
-#### REV01: Mon, 11 September 2023
+* [LOG](TXT/mylog.txt)
+* [LINKS](LINKS/)
+* [GitHub](https://github.com/Fec16/os232/)
+
+#### REV02: Mon, 11 September 2023 10:02 PM
