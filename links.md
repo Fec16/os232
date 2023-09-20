@@ -15,3 +15,9 @@ permalink: LINKS/
 5. [How Passphrase Works?](https://www.ssh.com/academy/ssh/passphrase) is a site explaining about passphrase which is similar to a password but for encryption related stuff. Passphrase encrypts private key with the password the User made. <br>
 
 6. [Belajar Memakai GNU Privacy Guard (GnuPG/GPG)](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91) is a site explaining about GnuPG and its RSA Algorithm for data encryptions. GnuPG allows you to encrypt and sign your data. <br>
+
+7. [Cyber Security and Privacy] (https://osp4diss.vlsm.org/osp-133.html) taken from the Operating Systems course site. Very useful for newbies and everybody who wants to know more about cyber security. <br>
+
+8. [What is Passphrase and How to Use It?] (https://www.ssh.com/academy/ssh/passphrase) is a site explaining about passphrase in a nutshell. Passphrase encrypts a private key with the password we made. <br>
+
+9. [Create a tar.xz in one command] (https://stackoverflow.com/questions/18855850/create-a-tar-xz-in-one-command), this one is taken from stack overflow. Using one command which is `tar -cJf archive.tar.xz directory/` you can create a tar.xz with one command. <br>
