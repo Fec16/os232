@@ -21,3 +21,6 @@ permalink: LINKS/
 8. [What is Passphrase and How to Use It?](https://www.ssh.com/academy/ssh/passphrase) is a site explaining about passphrase in a nutshell. Passphrase encrypts a private key with the password we made. <br>
 
 9. [Create a tar.xz in one command](https://stackoverflow.com/questions/18855850/create-a-tar-xz-in-one-command), this one is taken from stack overflow. Using one command which is `tar -cJf archive.tar.xz directory/` you can create a tar.xz with one command. <br>
+
+10. [How Operating Systems Use Memory?](https://public.support.unisys.com/aseries/docs/ClearPath-MCP-20.0/86000387-514/section-000023203.html) this site explains the main concept of operating systems memory management. Mostly explaining about memory usage and allocations on Windows and Linux <br>
+
