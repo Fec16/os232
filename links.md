@@ -25,3 +25,6 @@ permalink: LINKS/
 10. [How Operating Systems Use Memory?](https://public.support.unisys.com/aseries/docs/ClearPath-MCP-20.0/86000387-514/section-000023203.html) this site explains the main concept of operating systems memory management. Mostly explaining about memory usage and allocations on Windows and Linux <br>
 
 11. [Virtual Memory in Operating Systems](https://www.guru99.com/virtual-memory-in-operating-system.html), this site explains the base concept of how a memory management wokrs in operating systems. It also explains about memory usage and allocation. At last, explaining about system files in Linux and Windows. <br>
+
+12. [SHASUM Command on Linux](https://linuxhint.com/shasum-linux/), 
+An Article explaining about SHASUM and how it works. SHASUM is a command to generate a hash of a certain file. The way SHASUM generate its hash is through the SHA-1 algorithm. <br>
