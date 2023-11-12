@@ -28,3 +28,6 @@ permalink: LINKS/
 
 12. [SHASUM Command on Linux](https://linuxhint.com/shasum-linux/), 
 An Article explaining about SHASUM and how it works. SHASUM is a command to generate a hash of a certain file. The way SHASUM generate its hash is through the SHA-1 algorithm. <br>
+
+13. [File System Implementation](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf),
+A journal explaining the concept of file systems, how it works, and its implementations. It also covers file systems implementation in Linux and Windows. <br>
