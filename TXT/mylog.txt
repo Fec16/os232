@@ -86,3 +86,18 @@ ZCZC W07 30 L43 TXT/myrank.tex related, including peer review.
 ZCZC W07 30 L41 TXT/mylog.txt related
 ZCZC W07 60 L05 Quiz related including studying
 ZCZC W07 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 30 L01 SCELE/Discord related
+ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 60 L07 Demo related
+ZCZC W08 30 L03 GitHub related
+ZCZC W08 60 L09 Assignment in General
+ZCZC W08 180 L18 Assignment W08
+ZCZC W08 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 30 L41 TXT/mylog.txt related
+ZCZC W08 60 L05 Quiz related including studying
+ZCZC W08 120 L18 Assignment W08
+ZCZC W08 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 120 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 10 L62 Backup Virtual Debian Guest
+ZCZC W08 60 L81 Listening: Radio, Music, etc.

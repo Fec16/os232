@@ -31,3 +31,9 @@ An Article explaining about SHASUM and how it works. SHASUM is a command to gene
 
 13. [File System Implementation](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf),
 A journal explaining the concept of file systems, how it works, and its implementations. It also covers file systems implementation in Linux and Windows. <br>
+
+14. [Text Editor: Vi vs Nano](https://www.cbtnuggets.com/blog/technology/system-admin/vi-vs-nano-which-is-the-best-text-editor), An article comparing two of the most popular text editor in Linux. Briefly, Vi is a more complex and powerful text editor. Meanwhile, Nano is light and simpler. <br>
+
+15. [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html), An article with 30 chapters of Scripting Guides. From the simplest introduction into more complex topics such as variables, functions, and scripts developments. <br>
+
+16. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/), The official "Linux from Scratch" website. Simple dan well designed with a full tutorial to build your own Linux. One of the best Linux tutorial anyone could fine, complete with detailed instructions for every chapter. <br>
